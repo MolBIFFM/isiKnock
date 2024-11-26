@@ -8,7 +8,11 @@ Signaling pathways are complex and intertwined processes. The perturbation of bi
 
 isiKnock is a software to automatically conduct in silico knockouts for signaling pathways. Single as well as multiple knockouts can be performed. The results are visualized using a matrix representation. isiKnock predicts the knockout behavior based on the calculation of signal flows at steady state. For an explanation of the concept of in silico knockouts, we refer to Scheidel et al. 2016 and Amstein et al. 2017.
 
-## Detailed tutorial
+## How to use
+
+Download the build jar from the store folder and execute it (from command line: "java -jar isiKnock.jar")
+
+## Additional information and tutorial
 
 A (not yet up to date, but mostly correct) tutorial and additional information is available at:
 
